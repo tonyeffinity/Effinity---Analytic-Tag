@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This tag is created to help Effinity's Analytic Tag integration.
+This template is created to help Effinity's Analytic Tag integration with GTM.
 
 <!-- LICENSE -->
 ## License
